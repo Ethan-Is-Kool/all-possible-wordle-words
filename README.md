@@ -4,3 +4,7 @@ every single possible wordle guess (pulled from https://www.nytimes.com/games/wo
 The first list is possible answers that are technically valid words that any human should know.
 
 The rest are random words that will never be correct answer but wordle recognizes are real words.
+
+fun fact: go to 
+www.google.com/search?q=wordle
+or type "wordle" into google and then look at the google icon at the top left
