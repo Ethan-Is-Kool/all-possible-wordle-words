@@ -1,10 +1,5 @@
-# all-possible-wordle-words
-every single possible wordle guess (pulled from https://www.nytimes.com/games/wordle/index.html)
+# possible answers.json - all possible answers for a wordle
+# valid words.json - the rest of all words that wordle considers valid (will never be actual answers)
+# possible answers + valid words.json - both lists combine
 
-The first list is possible answers that are technically valid words that any human should know.
-
-The rest are random words that will never be correct answer but wordle recognizes are real words.
-
-fun fact: go to 
-www.google.com/search?q=wordle
-or type "wordle" into google and then look at the google icon at the top left
+pulled from https://www.nytimes.com/games/wordle/index.html
